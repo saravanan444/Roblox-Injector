@@ -7,3 +7,4 @@ Admin is a pre programmed script that gives you access to the infinite yeild adm
 
 When you download this it will say it is a hacktool or sometimes windows defender calls it a trojan horse. This is a false positive becausse of the dll file i used. You havee to allow it on your system. This injector is unstable and will sometimes crash your roblox game, sorry.
 
+
